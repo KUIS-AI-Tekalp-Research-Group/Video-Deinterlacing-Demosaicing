@@ -1,5 +1,15 @@
 If you find our code helpful to your research or work, please consider referring to our papers for more details:
 
+@article{ji2024new,
+  title={A new multi-picture architecture for learned video deinterlacing and demosaicing with parallel deformable convolution and self-attention blocks},
+  author={Ji, Ronglei and Tekalp, A Murat},
+  journal={Image and Vision Computing},
+  volume={146},
+  pages={105023},
+  year={2024},
+  publisher={Elsevier}
+}
+
 @inproceedings{ji2022multi,
   title={Multi-Field De-Interlacing Using Deformable Convolution Residual Blocks and Self-Attention},
   author={Ji, Ronglei and Tekalp, A Murat},
